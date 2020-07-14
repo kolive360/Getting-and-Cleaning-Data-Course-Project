@@ -10,6 +10,6 @@ to be worked in RStudio V.
 
 
 The files that comprise the work are:
-    CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
-    run_analysis.R    
-    FinalData.txt is the exported final data after going through all the sequences described above.
+    /nCodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+    /nrun_analysis.R    
+    /nFinalData.txt is the exported final data after going through all the sequences described above.
