@@ -8,12 +8,13 @@ The stated purpose of this project is to demonstrate your ability to collect, wo
 to be worked in RStudio Version 1.2.5042
 
 ## The files that comprise the work are:
-    1. CodeBook.md a codebook describing the variables, data, and any transformations or the work you did to clean up the data.
-    2. run_analysis.R the script performs the following actions with the dataset.   
-        2.1 Merges the training and the test sets to create one data set.
-        2.2 Extracts only the measurements on the mean and standard deviation for each measurement.
-        2.3 Uses descriptive activity names to name the activities in the data set
-        2.4 Appropriately labels the data set with descriptive variable names.
-        2.5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-    3. FinalDataSet.txt Tthis file contains the final database after obtaining, manipulating and cleaning the data.
+    - CodeBook.md a codebook describing the variables, data, and any transformations or the work you did to clean up the data.
+    - run_analysis.R the script performs the following actions with the dataset.   
+        1. Merges the training and the test sets to create one data set.
+        2. Extracts only the measurements on the mean and standard deviation for each measurement.
+        3. Uses descriptive activity names to name the activities in the data set
+        4. Appropriately labels the data set with descriptive variable names.
+        5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+        6. Check DataSet
+    - FinalDataSet.txt Tthis file contains the final database after obtaining, manipulating and cleaning the data.
        
